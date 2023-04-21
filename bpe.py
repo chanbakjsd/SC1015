@@ -39,7 +39,7 @@ class BytePairEncoding:
         for word in current_encoding:
             self._populate_count(word)
         return self
-    
+
     def transform_count(self, data: pd.Series) -> pd.Series:
         text = data["detailed_description"].replace(data["name"], "@").lower()
         x = pd.Series([0] * len(self.token_to_text))
