@@ -63,7 +63,7 @@ game to a certain extent.
 [dataset]: https://www.kaggle.com/datasets/nikdavis/steam-store-games
 
 [clean-file]: https://github.com/chanbakjsd/SC1015/blob/master/0%20Data%20Cleaning.ipynb
-[eda-file]: https://github.com/chanbakjsd/SC1015/blob/master/1%20EDA.ipynb
+[eda-file]: https://github.com/chanbakjsd/SC1015/blob/master/1%20Exploratory%20Data%20Analysis.ipynb
 [ml-file]: https://github.com/chanbakjsd/SC1015/blob/master/2%20Machine%20Learning.ipynb
 
 [new-algo-archive]: https://web.archive.org/web/20220523110425/http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM
